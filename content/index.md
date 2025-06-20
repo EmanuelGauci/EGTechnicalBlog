@@ -6,23 +6,27 @@ tags:
 ---
 
 ## Lay of the land
-[[Who am I]]
+>[!LAY OF THE LAND] lay of the land
+>[[Who am I]]
+>[[What is this blog]]
+>[find me on linktree](https://linktr.ee/EmanuelGauci)
 
-[[What is this blog]]
+## Map of contents
+>[!MOC] map of content
+>[[Research and Reflections]]
+>[[Software Development]]
+>[[Game development]]
+>[[Shaders and CG]]
 
-[[how do you navigate this blog]]
+```test
+code block test
+```
 
-[find me on linktree](https://linktr.ee/EmanuelGauci)
 
-## Research and Reflections
-[[Research and Reflections]]
-## Software development projects
-[[Software Development]]
-## Game development projects
-[[Game development]]
+| Test table | test table |
+| ---------- | ---------- |
+| test table | test table |
 
-## Shaders and computer graphics
-[[Shaders and CG]]
 
 ## test image
 ![[Pasted image 20250620184850.png]]

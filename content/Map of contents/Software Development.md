@@ -6,7 +6,6 @@ tags:
 ---
 
 ## connections
-[[content/index|index]]
 
 ## project documentation
 [[3D Engine Documentation]]
