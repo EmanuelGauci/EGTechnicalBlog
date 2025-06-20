@@ -4,7 +4,10 @@ draft: false
 tags:
   - example-tag
 ---
-[[content/index]]
+
+## connections
+[[content/index|index]]
+
 ## reflections
 [[example reflection]]
 
@@ -15,4 +18,5 @@ tags:
 [[example reflection]]
 
 [[example reflection]]
+
 ## research

@@ -1,11 +1,12 @@
 ---
-title: Example Title
+title: Shaders and CG
 draft: false
 tags:
   - example-tag
 ---
+
 ## connections 
-[[content/indexes/index|index]]
+[[content/index|index]]
 
 ## projects
 [[3D Engine Documentation]]

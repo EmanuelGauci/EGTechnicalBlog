@@ -5,13 +5,18 @@ tags:
   - example-tag
 ---
 
-[[content/indexes/index|index]]
+## connections
+[[content/index|index]]
 
 ## projects
 [[TSROG Documentation]]
+
 [[Spazju Kreattiv Exhibition Documentation]]
+
 [[Marla Game Documentation]]
+
 [[Running The Mine 2 Documentation]]
+
 [[Running The Mine Documentation]]
 
 ## theory
