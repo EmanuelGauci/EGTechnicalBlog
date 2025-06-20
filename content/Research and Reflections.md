@@ -4,7 +4,7 @@ draft: false
 tags:
   - example-tag
 ---
-[[content/index|index]]
+[[content/indexes/index|index]]
 ## reflections
 
 

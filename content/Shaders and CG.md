@@ -5,7 +5,7 @@ tags:
   - example-tag
 ---
 ## connections 
-[[content/index|index]]
+[[content/indexes/index|index]]
 
 ## projects
 [[3D Engine Documentation]]

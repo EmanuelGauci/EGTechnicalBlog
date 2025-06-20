@@ -5,7 +5,7 @@ tags:
   - example-tag
 ---
 
-[[content/index|index]]
+[[content/indexes/index|index]]
 
 ## projects
 [[TSROG Documentation]]
