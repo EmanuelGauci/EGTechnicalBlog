@@ -1,5 +1,5 @@
 ---
-title: Game development
+title: EGTechArt
 draft: false
 tags:
   - example-tag
