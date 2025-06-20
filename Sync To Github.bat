@@ -1,6 +1,6 @@
 @echo off
 
-echo pushing to github
+echo "pushing to github"
 
 @echo on
 
