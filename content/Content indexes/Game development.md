@@ -6,7 +6,6 @@ tags:
 ---
 
 ## connections
-[[content/index|index]]
 
 ## projects
 [[TSROG Documentation]]

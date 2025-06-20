@@ -26,3 +26,10 @@ tags:
 
 ## test image
 ![[Pasted image 20250620184850.png]]
+
+## LaTeX test
+$$test$$
+
+$test$
+
+[[test 3]]

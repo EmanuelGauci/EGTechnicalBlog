@@ -6,7 +6,6 @@ tags:
 ---
 
 ## connections
-[[content/index|index]]
 
 ## reflections
 [[example reflection]]

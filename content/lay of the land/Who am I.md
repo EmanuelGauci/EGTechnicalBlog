@@ -6,7 +6,6 @@ tags:
 ---
 
 ## connections
-[[content/index|index]]
 
 ## my background
 
