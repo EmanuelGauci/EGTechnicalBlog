@@ -4,7 +4,7 @@ draft: false
 tags:
   - example-tag
 ---
-[[EGTechArt]]
+[[content/index]]
 ## reflections
 [[example reflection]]
 
