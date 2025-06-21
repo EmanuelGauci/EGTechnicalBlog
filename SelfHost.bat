@@ -1,11 +1,11 @@
 @echo off
 
-echo rebuilding site
 
-
+echo hosting site
 
 npx quartz build --serve
 
 
-
 pause
+
+
